@@ -7,19 +7,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Movie info site </title>
+    <style>
+        body {
+            background-image: url('background.jpg');
+            background-size: cover;
+            background-attachment: fixed;
+        }
+    </style>
 </head>
 
 <body>
-
-    <div class="container">
-        <div class="search-container">
-            <input type="text" id="movie-name" placeholder="Enter movie name here..." value="fight club">
-            <button id="search-btn">Search</button>
-        </div>
-        <div id="result"></div>
+    <div class="search-container">
+        <input type="text" id="movie-name" placeholder="Enter movie name here..." value="fight club">
+        <button id="search-btn">Search</button>
     </div>
-
-
+    <div class="container">
+        <div id="result"></div>
+        <div class="links-container">
+            <div id="director" class="info-section"></div>
+            <div id="ott-links" class="info-section"></div>
+            <div id="trailer" class="info-section"></div>
+            <div id="interviews" class="info-section"></div>
+        </div>
+    </div>
+    
+    <!-- Dark mode toggle button -->
+    <button id="mode-toggle" class="mode-toggle">Switch to Dark Mode</button>
 
     <script src="key.js"></script>
     <script src="index.js"></script>
