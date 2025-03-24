@@ -7,10 +7,22 @@ This project is a simple web application that allows users to search for movie i
 ## Features
 
 - Search for movie information by entering the movie name.
+- ![Screenshot 2025-03-24 165210](https://github.com/user-attachments/assets/a6be4b9b-23f3-49c4-a64b-b0aa62459396)
+
 - Display movie details such as poster, rating, plot, cast, and director.
+- ![Screenshot 2025-03-24 165256](https://github.com/user-attachments/assets/453966e6-226b-42ad-b5f2-dcd1d3779f89)
+
 - Provide links to watch the movie on Netflix, Amazon Prime, and Hulu.
 - Include links to watch the movie trailer and interviews on YouTube.
+- ![Screenshot 2025-03-24 165327](https://github.com/user-attachments/assets/1135f54b-3aa1-4ade-b727-d951685234df)
+
+
 - Toggle between light and dark mode for better readability.
+- ![Screenshot 2025-03-24 165654](https://github.com/user-attachments/assets/4c519653-f5f4-4539-8764-94a7542bb318)
+
+
+- ![Screenshot 2025-03-24 165707](https://github.com/user-attachments/assets/add3baf2-ddd2-45e1-8e4e-f62aa46f4312)
+
 
 ## Technologies Used
 
