@@ -6,14 +6,7 @@ let trailer = document.getElementById("trailer");
 let interviews = document.getElementById("interviews");
 let director = document.getElementById("director");
 
-// Remove the lemon image and title beside it
-// const lemonImage = document.createElement('img');
-// lemonImage.src = 'lemon.jpeg';
-// document.body.appendChild(lemonImage);
 
-// const pageTitle = document.createElement('span');
-// pageTitle.textContent = " Le movies ";
-// document.body.appendChild(pageTitle);
 
 // Dark mode toggle functionality
 const modeToggle = document.getElementById('mode-toggle');
