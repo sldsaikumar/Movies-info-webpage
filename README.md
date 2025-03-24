@@ -1,6 +1,6 @@
 Personal Project :
 
-# Movie Info site :
+# Movie Info site : https://sldsaikumar.github.io/Movies-info-webpage/
 
 This project is a simple web application that allows users to search for movie information using the OMDB API. The application provides details about the movie, including the poster, rating, plot, cast, director, and links to watch the movie on various OTT platforms. Additionally, it includes a dark mode toggle feature for better user experience.
 
